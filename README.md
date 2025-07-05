@@ -1,8 +1,4 @@
-Perfect! Here's the cleaned-up and **streamlined `README.md`** version of your **AdaptX** project—**no optional sections**, just what’s essential and production-ready:
 
----
-
-```markdown
 # AdaptX
 
 **AdaptX** is an inclusive web platform designed to enhance digital accessibility for users with cognitive and visual disabilities, including **dyslexia**, **color blindness**, **autism**, **ADHD**, and more. It empowers developers and designers to build accessible web experiences through feature-focused templates and components.
