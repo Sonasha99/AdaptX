@@ -57,7 +57,6 @@ AdaptX/
    ```bash
    git clone https://github.com/Sonasha99/AdaptX.git
    cd AdaptX
-````
 
 2. Open the homepage:
 
